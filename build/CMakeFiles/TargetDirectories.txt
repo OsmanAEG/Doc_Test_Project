@@ -1,0 +1,4 @@
+/mnt/c/Users/Osman/Desktop/Projects/Doc_Test_Project/build/CMakeFiles/sycl_vector.dir
+/mnt/c/Users/Osman/Desktop/Projects/Doc_Test_Project/build/CMakeFiles/doxygen.dir
+/mnt/c/Users/Osman/Desktop/Projects/Doc_Test_Project/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Osman/Desktop/Projects/Doc_Test_Project/build/CMakeFiles/rebuild_cache.dir
